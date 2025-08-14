@@ -1,0 +1,21 @@
+# Ignore build output
+/build/
+/build.xml
+
+# Ignore NetBeans project files
+/nbproject/private/
+/nbproject/genfiles.properties
+
+# Ignore class files
+*.class
+
+# Ignore IDE settings
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
